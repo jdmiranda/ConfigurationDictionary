@@ -1,0 +1,8 @@
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\bin\Debug\ConfigurationReplacePrototype.exe.config
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\bin\Debug\ConfigurationReplacePrototype.exe
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\bin\Debug\ConfigurationReplacePrototype.pdb
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\obj\Debug\ConfigurationReplacePrototype.csprojResolveAssemblyReference.cache
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\obj\Debug\ConfigurationReplacePrototype.exe
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\obj\Debug\ConfigurationReplacePrototype.pdb
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\bin\Debug\Newtonsoft.Json.dll
+c:\users\miran_000\documents\visual studio 2015\Projects\ConfigurationReplacePrototype\ConfigurationReplacePrototype\bin\Debug\Newtonsoft.Json.xml
